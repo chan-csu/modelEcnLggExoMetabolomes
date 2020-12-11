@@ -1,4 +1,4 @@
-This repository contains supplementary files for the metabolic modeling analysis in the manuscript:
+This repository contains supplementary files for the metabolic modeling analysis in the manuscript:  
 Hove PR, Nealon NJ, Chan SHJ, Bover SM, Haberecht HB and Ryan EP. (Submitted) Metabolomics and proteomics of *L. rhamnosus* GG and *E. coli* Nissle  probiotic supernatants identify distinct pathways that mediate growth suppression of antimicrobial-resistant pathogens.
 
 `ECN_20200729.mat/xml`  
